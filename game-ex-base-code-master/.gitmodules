@@ -1,0 +1,8 @@
+[submodule "9nes游戏机"]
+	url  = https://gitee.com/lcsc/liangshan-pi-nes-game-console
+	path = 9nes游戏机
+
+[submodule "10飞机大战游戏"]
+	url  = https://gitee.com/lcsc/liangshanpi-air-game
+	path = 10飞机大战游戏
+
